@@ -1,3 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: "CircularBold";
+  src: url("../public/fonts/Bold.otf");
+}
+
+@font-face {
+  font-family: "CircularBook";
+  src: url("../public/fonts/Book.otf");
+}
+
+@font-face {
+  font-family: "CircularMedium";
+  src: url("../public/fonts/Medium.otf");
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
