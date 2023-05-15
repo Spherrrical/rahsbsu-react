@@ -13,7 +13,7 @@ function App() {
                     We're reconstructing the website to make it more accessible and easier to navigate.
                 </h1>
                 <h1 className="text-center text-yellow-200 lg:text-2xl font-circularbook">
-                    We are also investigating an issue where the website is inaccesible on school WiFi.
+                    We are also investigating an issue where the website is unavailable on school WiFi.
                 </h1>
                 <h1 className="text-center text-slate-200 lg:text-3xl sm:text-7xl font-circularbook">
                     In the meantime, check our <a href="https://instagram.com/rahs_bsu" target="_blank" rel="noopener noreferrer" className="text-cyan-500 after:content-['_↑'] hover:text-cyan-600">Instagram</a>  for updates.
